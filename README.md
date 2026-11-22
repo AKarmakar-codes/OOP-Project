@@ -228,7 +228,7 @@ npm test -- --run
 ```
 
 ---
-
+  
 ## Documentation Index
 
 Comprehensive documentation covering requirements, system design, technology trade-offs, and verification test cases is located in the `docs/` folder:
